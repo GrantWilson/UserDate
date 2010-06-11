@@ -1,6 +1,6 @@
 /*global TimeZone*/
-// Generic UserDate class for JQuery
-// getTimezoneOffset includes DST if local region uses it/is using it
+
+// Written by Grant Wilson. Meant to replace javascript's Date class when the user needs to change time zones. 
 // One known bug shows up in a very rare case. If the browser's default time
 // zone doesn't use DST, then the getDSTEndDate function will return a date an hour off
 // from the actual crossover time. 
