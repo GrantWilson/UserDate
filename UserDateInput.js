@@ -217,7 +217,7 @@ var UserDateInput = (function ($) { // Localise the $ function
         stringToDate: function (string) {
             var matches;
             if (matches = string.match(/^(\d{1,2}) ([^\s]+) (\d{4,4})$/)) {
-                return new UserDate(new Date(matches[3], this.shortMonthNum(matches[2]), matches[1], 8, 0), this.timezone);
+                return new UserDate(new Date(matches[3], this.shortMonthNum(matches[2]), matches[1], 12, 0), this.timezone);
             } else {
                 return null;
             }
