@@ -1,1 +1,23 @@
-UserDate is the class I created to cope with the native javascript object Date's lack of time zone control. Used in conjunction with the TimeZone class, UserDate remedies this. UserDateInput (modified from Jon Leighton's Date Input) can also be used with the two in order to make date selection easy. For an example of how this all works, feel free to try them out with TextInputTest.
+UserDate is the class I created to cope with the native javascript object Date's lack of time zone control. Used in conjunction with the TimeZone class, UserDate remedies this. UserDateInput (modified from Jon Leighton's Date Input) can also be used with the two in order to make date selection easy. For an example of how this all works, feel free to try them out with TextInputTest. This software is licensed under the MIT License.
+
+The MIT License
+
+Copyright (c) <2010> <Acubits>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
