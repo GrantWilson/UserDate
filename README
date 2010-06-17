@@ -1,4 +1,7 @@
-UserDate is the class I created to cope with the native javascript object Date's lack of time zone control. Used in conjunction with the TimeZone class, UserDate remedies this. UserDateInput (modified from Jon Leighton's Date Input) can also be used with the two in order to make date selection easy. For an example of how this all works, feel free to try them out with TextInputTest. This software is licensed under the MIT License.
+UserDate is the class I created to cope with the native javascript object Date's lack of time zone control. 
+Used in conjunction with the TimeZone class, UserDate remedies this. 
+UserDateInput (modified from Jon Leighton's Date Input) can also be used with the two in order to make date selection easy. 
+For an example of how this all works, feel free to try them out with TextInputTest. This software is licensed under the MIT License.
 
 The MIT License
 
